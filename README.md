@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=channa-sugathadasa&label=Profile%20views&color=0e75b6&style=flat" alt="channa-sugathadasa" /> </p>
 
-- 🔭 I’m currently working on [NexaAI](https://github.com/channa-sugathadasa/Nexa-AI.git)
+<p align="center"> - 🔭 I’m currently working on [NexaAI](https://github.com/channa-sugathadasa/Nexa-AI.git)</p>
 
-- 🌱 I’m currently learning **Dart**
+<p align="center">- 🌱 I’m currently learning **Dart**</p>
 
-- 📫 How to reach me **channavimukthi21871@gmail.com**
+<p align="center">- 📫 How to reach me **channavimukthi21871@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
