@@ -5,9 +5,9 @@
 
 <p align="center"> - 🔭 I’m currently working on [NexaAI](https://github.com/channa-sugathadasa/Nexa-AI.git)</p>
 
-<p align="center">- 🌱 I’m currently learning **Dart**</p>
+<p align="center">- 🌱 I’m currently learning "Dart"</p>
 
-<p align="center">- 📫 How to reach me **channavimukthi21871@gmail.com** </p>
+<p align="center">- 📫 How to reach me "channavimukthi21871@gmail.com" </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
